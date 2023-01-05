@@ -1,0 +1,7 @@
+
+****** Opened file log at 3/30/2018 14:58:49 .Tracer (STIWOW64) , called from [wiawow64.exe::0xc9c]
+Severity TracerName [Process::ThreadId] Time MessageText
+
+e STIWOW64 [wiawow64.exe::0xc9c]  	USD failed Initialize method, returned error code (hex)=!x!.
+
+******Closed trace log on 3/30/2018 14:58:49 Tracer (STIWOW64) , called from [wiawow64.exe::0xc9c]
